@@ -1,0 +1,11 @@
+.CommentsList {
+    list-style: none;
+}
+
+.CommentItem {
+    text-align: left;
+}
+
+.CommentsList .CommentItem:not(:last-child) {
+    margin-bottom: 24px;
+}
