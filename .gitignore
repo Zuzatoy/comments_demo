@@ -18,6 +18,8 @@ dist
 *.pem
 .cache
 
+cache
+
 # debug
 npm-debug.log*
 yarn-debug.log*
